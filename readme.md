@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	 Recriando ChatGPT
+	 Server Recriando ChatGPT
 </h1>
 
 <p align="center">
@@ -64,8 +64,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 &nbsp;
 
 <p align="center">
-    <a href= "https://reactjs.org/"><img alt="React badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=61dafb&logo=React&label=Framework&message=React.js&color=61dafb"></a>
-    <a href= "https://www.javascript.com/"><img alt="Javascript badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=FFC0CB&logo=javascript&label=Style&message=Javascript&color=FFC0CB"></a>
     <a href= "https://axios-http.com/"><img alt="Axios badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=240fdf&logo=axios&label=Style&message=Axios&color=240fdf"></a>
     <a href= "https://openai.com/"><img alt="ChatGPT badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=ef3818&logo=openai&label=Style&message=ChatGPT%20API&color=ef3818"></a>
     <a href= "https://nodejs.org/"><img alt="Node badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=fbeb3c&logo=node.js&label=Style&message=Node.js&color=fbeb3c"></a>
