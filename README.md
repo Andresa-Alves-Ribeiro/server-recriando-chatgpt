@@ -6,7 +6,8 @@
   ChatGPT Clone • 🤖
 </h2>
 
-Um clone backend do chatgpt utilizando uma integração com o algoritmo do OpenAI. Para visualizar o projeto completo que usa este server clique em: [Recriando ChatGPT](https://github.com/Andresa-Alves-Ribeiro/recriando-chatgpt)
+Um clone backend do chatgpt utilizando uma integração com o algoritmo do OpenAI. O deploy do server está no Render.
+Para visualizar o projeto completo que usa este server clique em: [Recriando ChatGPT](https://github.com/Andresa-Alves-Ribeiro/recriando-chatgpt)
 
 <!-- <p align="center">
 <img src="" title="ChatGPT">
